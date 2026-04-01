@@ -1,4 +1,5 @@
 #  AI-Governed RBAC System
+<img width="1919" height="880" alt="image" src="https://github.com/user-attachments/assets/99715cc0-9e8b-45ba-88df-e98341b10139" />
 
 View : https://ai-governed-rbac-8qww.vercel.app
 
