@@ -13,7 +13,7 @@
 // The frontend never calls fetch() directly — it always calls one of these.
 // ─────────────────────────────────────────────────────────────────────────────
 
-const BASE_URL = "http://localhost:3000";
+const BASE_URL = "https://ai-governed-rbac-backend.onrender.com";
 
 // ─── Token helpers ────────────────────────────────────────────────────────────
 // Store JWT in localStorage so the user stays logged in on page refresh
